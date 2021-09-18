@@ -1,2 +1,2 @@
 # PY_BOOKS
-Pythonda foydali malumotlar kitoblar
+Pythonda va boshqa foydali malumotlar kitoblar
